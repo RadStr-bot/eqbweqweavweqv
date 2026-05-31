@@ -1,0 +1,19 @@
+{
+  "iri": "6c89d5d4-6589-450e-bf5b-a895e8c66c14",
+  "projectIri": "8899ea2d-f4b6-4d10-9d96-c3058387e596",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": " v"
+    },
+    "description": {
+      "en": "Semantic model for the vocabulary"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
